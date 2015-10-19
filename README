@@ -1,0 +1,10 @@
+Jupyter notebook files and sample data for PyNoCo talk on Investigation data.
+
+You need:
+
+python
+ipython
+jupyter notebook
+pandas
+matplotlib
+sqlalchemy
